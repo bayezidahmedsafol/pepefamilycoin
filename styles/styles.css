@@ -1,0 +1,193 @@
+*{
+    margin:auto;
+    padding: 0;
+}
+.menu-container{
+    background-image: url("./background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    padding: 10px;
+    color: white;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.pepe-family-photo{
+    width: 150px;
+    margin: auto;
+}
+.menus{
+    display: flex;
+    margin: auto;
+
+}
+.item{
+    margin-left: 10px;
+    font-size: 18px;
+
+}
+.home-pepe{
+    width: 150px;
+}
+.div-sec{
+    display: flex;
+    height: 50vh;
+    margin: auto;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url("./background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.about-pepe{
+    color: #ffffff;
+}
+.about-h1{
+    font-size: 30px;
+    padding-bottom: 10px;
+    color: #3cc639;
+}
+.about-p{
+    font-size: 25px;
+}
+.coin-pepe{
+    width: 150px;
+}
+.div-sec-2{
+    display: flex;
+    height: 100vh;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url("./background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.about-howby{
+    font-size: 30px;
+    padding-bottom: 10px;
+    color: #3cc639;
+    margin-left: 20px;
+}
+.about-p2{
+    color: #ffffff;
+    margin-left: 20px;
+    font-size: 25px;
+}
+.pepe-1{
+    width: 210px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+/*end this section*/
+
+
+.pape-1-img{
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("./background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.pape-1-img-main{
+    width: 160px;
+}
+/*end this section*/
+.roadmao-1{
+    font-size: 30px;
+}
+.roadmao-1-dev{
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("./background.png");
+    color: #3cc639;
+}
+/*end this section*/
+.phase-1-heading{
+          font-size: 30px;
+          color: #548953;
+          padding: 30px;
+}
+.li-phase-1{
+    font-size: 20px;
+    color: #ffffff;
+    list-style: none;
+    padding-left: 30px;
+}
+.phase-1-list{
+    height: 30vh;
+    padding: 50px transparent;
+    background-image: url("./background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/*end this section*/
+
+.li-supply-2{
+    font-size: 25px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+
+}
+.total-sup{
+    height: 20vh;
+    background-image: url("./background.png");
+    background-repeat: no-repeat;
+    padding-top: 30px;
+}
+.roadmao-3-dev{
+    font-size: 30px;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("./background.png");
+    color: #3cc639;
+
+}
+/*end this section*/
+.family-memes{
+    font-size: 25px;
+    color: #3cc639;
+}
+.pepe-family-memes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-image: url("./background.png");
+    background-repeat: no-repeat;
+}
+/*end this section*/
+.meme-2{
+    width: 100px;
+    padding: 20px;
+    
+}
+.meme-3{
+    width: 100px;
+    padding: 20px;
+}
+.collam-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("./background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.twitter-pic{
+    width: 30px;
+}
